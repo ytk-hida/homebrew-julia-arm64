@@ -1,4 +1,4 @@
-class JuliaMaster < Formula
+class JuliaArm64 < Formula
   desc "Julia Programming Language, installed from the master branch on GitHub"
   homepage "https://github.com/JuliaLang/julia"
   url "https://julialang-s3.julialang.org/bin/mac/aarch64/1.7/julia-1.7.0-beta3-macaarch64.dmg"
